@@ -20,8 +20,7 @@ This selected data from the famous data site kaggle represents one of the import
 
  Using a simulator that simulates real financial transactions transferred from a mobile phone within one month in an African country.
  This data contains 6 million rows and 11 columns .
- 
- 
+  this data https://www.kaggle.com/ealaxi/paysim1 
  
  #  The goal of the  model
  
